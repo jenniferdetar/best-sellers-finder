@@ -3,6 +3,8 @@ import ItemCard from './components/ItemCard.jsx';
 import { fetchCharts, fetchHistoryDates, fetchSnapshot } from './lib/api.js';
 import './App.css';
 
+const CATEGORIES = ['All', 'Apps', 'Music', 'Movies', 'Books', 'Games'];
+
 function groupByChart(items) {
   const groups = new Map();
   for (const item of items) {
@@ -14,6 +16,7 @@ function groupByChart(items) {
 }
 
 export default function App() {
+  const [category, setCategory] = useState('All');
   const [query, setQuery] = useState('');
   const [items, setItems] = useState([]);
   const [updatedAt, setUpdatedAt] = useState(null);
@@ -26,7 +29,7 @@ export default function App() {
     setStatus('loading');
     setError(null);
 
-    fetchCharts()
+    fetchCharts(category === 'All' ? undefined : category)
       .then((data) => {
         if (cancelled) return;
         setItems(data.items || []);
@@ -42,7 +45,7 @@ export default function App() {
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [category]);
 
   useEffect(() => {
     let cancelled = false;
@@ -75,16 +78,28 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Best Selling Books</h1>
+        <h1>Best Sellers Finder</h1>
         <p className="app-subtitle">
-          Live top book charts from Apple's public, no-signup Marketing Tools RSS feed.
+          Live top charts from public, no-signup sources — Apple (apps, music, movies, books) and Steam (games).
         </p>
       </header>
+
+      <nav className="category-tabs" aria-label="Category">
+        {CATEGORIES.map((c) => (
+          <button
+            key={c}
+            className={c === category ? 'tab tab-active' : 'tab'}
+            onClick={() => setCategory(c)}
+          >
+            {c}
+          </button>
+        ))}
+      </nav>
 
       <div className="search-row">
         <input
           type="search"
-          placeholder="Search books…"
+          placeholder="Search this category…"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           aria-label="Search"
