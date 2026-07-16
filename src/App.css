@@ -15,6 +15,30 @@
   font-size: 0.9rem;
 }
 
+.category-tabs {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+  margin-bottom: 12px;
+}
+
+.tab {
+  flex: 0 0 auto;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  padding: 6px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.tab-active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
 .search-row {
   display: flex;
   align-items: center;
