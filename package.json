@@ -1,0 +1,21 @@
+{
+  "name": "best-sellers-finder",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Ranked, searchable best-seller charts with historical trend tracking, built from public no-auth data sources.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "snapshot": "node scripts/snapshot.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.2",
+    "vite": "^8.0.16"
+  }
+}

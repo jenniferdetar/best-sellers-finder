@@ -1,0 +1,12 @@
+{
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "installCommand": "npm install",
+  "functions": {
+    "api/*.js": {
+      "maxDuration": 15,
+      "includeFiles": "data/history/**"
+    }
+  }
+}
