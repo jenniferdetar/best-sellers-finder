@@ -1,0 +1,542 @@
+[
+  {
+    "id": "music:most-played:1844932150",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 1,
+    "name": "Choosin' Texas",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6792676860",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 2,
+    "name": "Been By Now",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6769568596",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 3,
+    "name": "Janice STFU",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6790569133",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 4,
+    "name": "Dead Fresh",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6763091996",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 5,
+    "name": "I Can't Love You Anymore",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6796864754",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 6,
+    "name": "BbY WOW",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6798346706",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 7,
+    "name": "Reap What You Sow",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1869436845",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 8,
+    "name": "Be Her",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1889992115",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 9,
+    "name": "stupid song",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6773775282",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 10,
+    "name": "oh yeah?",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6763656876",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 11,
+    "name": "hate that i made you love me",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1440929293",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 12,
+    "name": "Freestyle",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1648587330",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 13,
+    "name": "In A Minute",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1889992123",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 14,
+    "name": "the cure",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1621119447",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 15,
+    "name": "WAIT FOR U (feat. Drake & Tems)",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1802103970",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 16,
+    "name": "I'm The Problem",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1802104400",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 17,
+    "name": "Don't We",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1884403093",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 18,
+    "name": "Boston",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6769568598",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 19,
+    "name": "Shabang",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6798042825",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 20,
+    "name": "Jaded",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1836226731",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 21,
+    "name": "Loser",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6798346707",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 22,
+    "name": "Last Man Breathin",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1621803969",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 23,
+    "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1452017954",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 24,
+    "name": "Best I Ever Had",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1137966332",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 25,
+    "name": "Cinderella (feat. Ty Dolla $ign)",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6779378286",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 1,
+    "name": "Very Bad Things",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6746705461",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 2,
+    "name": "Spirit Lake",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1357566626",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 3,
+    "name": "Falling For You: A Sweet, Small Town Romance",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6743085693",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 4,
+    "name": "Faking Romance",
+    "price": null
+  },
+  {
+    "id": "books:top-free:647574545",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 5,
+    "name": "Tamed by the Billionaire (Roman's Story)",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6737577371",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 6,
+    "name": "The Takeover Box Set",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6744980300",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 7,
+    "name": "Where the Music Grows",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6741486100",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 8,
+    "name": "The Viking Tales Box Set Books #1-3",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6720741184",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 9,
+    "name": "The dark side ... of the human being",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6753194485",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 10,
+    "name": "In Your Safe Embrace",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6751222409",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 11,
+    "name": "Karma isn't a bitch",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6740625637",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 12,
+    "name": "Daemons",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6796157558",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 13,
+    "name": "Summer with a Navy SEAL",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1196434548",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 14,
+    "name": "Liars Like Us",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6744970345",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 15,
+    "name": "The Girl Who Lied",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1509530250",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 16,
+    "name": "False Front",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1524446911",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 17,
+    "name": "The Girls in the Snow",
+    "price": null
+  },
+  {
+    "id": "books:top-free:395540967",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 18,
+    "name": "The Odyssey",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1130646661",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 19,
+    "name": "Roommating",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1343599400",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 20,
+    "name": "Dragon and Thief",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1525312207",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 21,
+    "name": "Coffee Shop Girl",
+    "price": null
+  },
+  {
+    "id": "books:top-free:395534623",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 22,
+    "name": "The Art of War",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6470330310",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 23,
+    "name": "Sudden Mail-Order Bride: A Sweet, Clean Western Romance",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6584519723",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 24,
+    "name": "Meditations: Modern English Edition",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6444767949",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 25,
+    "name": "The Odyssey",
+    "price": null
+  },
+  {
+    "id": "games:top-sellers:4165910",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 1,
+    "name": "Steam Machine",
+    "price": "$1,049.00"
+  },
+  {
+    "id": "games:top-sellers:4165910",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 2,
+    "name": "Steam Machine",
+    "price": "$1,049.00"
+  },
+  {
+    "id": "games:top-sellers:4165910",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 3,
+    "name": "Steam Machine",
+    "price": "$1,049.00"
+  },
+  {
+    "id": "games:top-sellers:4165910",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 4,
+    "name": "Steam Machine",
+    "price": "$1,049.00"
+  },
+  {
+    "id": "games:top-sellers:2584270",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 5,
+    "name": "Mortal Shell II",
+    "price": "$49.99"
+  },
+  {
+    "id": "games:top-sellers:4165870",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 6,
+    "name": "Steam Controller",
+    "price": "$99.00"
+  },
+  {
+    "id": "games:top-sellers:1675200",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 7,
+    "name": "Steam Deck",
+    "price": "$399.00"
+  },
+  {
+    "id": "games:top-sellers:1675200",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 8,
+    "name": "Steam Deck",
+    "price": "$399.00"
+  },
+  {
+    "id": "games:top-sellers:292000",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 9,
+    "name": "No More Room in Hell 2",
+    "price": "$19.49"
+  },
+  {
+    "id": "games:top-sellers:4435490",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 10,
+    "name": "Call of Duty®: Modern Warfare® 4",
+    "price": "$69.99"
+  }
+]
