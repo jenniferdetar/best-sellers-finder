@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "apps:top-free:6448311069",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 1,
+    "name": "ChatGPT",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:632064380",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 2,
+    "name": "Vinted: Pre-loved marketplace",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6741796873",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 3,
+    "name": "TikTok Pro - Events",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6447582581",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 4,
+    "name": "Netflix Game Controller",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6762023973",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 5,
+    "name": "7 Brew Coffee",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6745190566",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 6,
+    "name": "NBA 2K HQ",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6446901002",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 7,
+    "name": "Threads",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6754134922",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 8,
+    "name": "PineDrama - Short Dramas",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:1636235979",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 9,
+    "name": "ReelShort - Stream Drama & TV",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6473753684",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 10,
+    "name": "Claude by Anthropic",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:284815942",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 11,
+    "name": "Google",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6477489729",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 12,
+    "name": "Google Gemini",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:555376968",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 13,
+    "name": "ESPN Fantasy Sports & More",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6761538521",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 14,
+    "name": "StoryReel: Exclusive Drama",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:1500855883",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 15,
+    "name": "CapCut: Photo & Video Editor",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:585027354",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 16,
+    "name": "Google Maps",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:310633997",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 17,
+    "name": "WhatsApp Messenger",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:518684914",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 18,
+    "name": "Depop - Buy & Sell Clothes",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:368677368",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 19,
+    "name": "Uber - Request a ride",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:333903271",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 20,
+    "name": "X",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:422689480",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 21,
+    "name": "Gmail - Email by Google",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:1641486558",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 22,
+    "name": "Temu: Shop Like a Billionaire",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:719972451",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 23,
+    "name": "DoorDash: Food, Grocery, More",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:835599320",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 24,
+    "name": "TikTok - Videos, Shop & LIVE",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:1488269261",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 25,
+    "name": "Whatnot: Shop, Sell, Connect",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:932747118",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 1,
+    "name": "Shadowrocket",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:294934058",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 2,
+    "name": "HotSchedules",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:373493387",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 3,
+    "name": "AnkiMobile Flashcards",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:916366645",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 4,
+    "name": "Procreate Pocket",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:404990064",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 5,
+    "name": "SkyView®",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:497716362",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 6,
+    "name": "TonalEnergy Tuner & Metronome",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:1303222868",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 7,
+    "name": "Paprika Recipe Manager 3",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:1010311475",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 8,
+    "name": "QuickBend: Conduit Bending",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:586149216",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 9,
+    "name": "Monash FODMAP Diet",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:357421934",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 10,
+    "name": "PeakFinder",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:432850619",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 11,
+    "name": "FL Studio Mobile",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:754105884",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 12,
+    "name": "NightCap Camera: Long Exposure",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:6786316806",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 13,
+    "name": "Wildwood: Follow the Crows",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:6797274503",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 14,
+    "name": "Gridiron 2026 College Football",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:288419283",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 15,
+    "name": "RadarScope",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:6748837351",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 16,
+    "name": "Moment Pro Camera II",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:1164801111",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 17,
+    "name": "AutoSleep: Watch Sleep Tracker",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:904237743",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 18,
+    "name": "Things 3",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:1553774029",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 19,
+    "name": "Taskmaster The App",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:317809458",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 20,
+    "name": "LiveATC Air Radio",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:6449003064",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 21,
+    "name": "Goblin Tools",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:1140451547",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 22,
+    "name": "Shot Tracer",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:963034692",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 23,
+    "name": "Streaks",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:596026805",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 24,
+    "name": "PhotoPills",
+    "price": null
+  },
+  {
+    "id": "apps:top-paid:578665578",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Apps",
+    "rank": 25,
+    "name": "Threema. The Secure Messenger",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873063",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 1,
+    "name": "I Am",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873065",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 2,
+    "name": "Piece Of Your Love",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1844932150",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 3,
+    "name": "Choosin' Texas",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873310",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 4,
+    "name": "Mainstay (feat. Luv Von)",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873307",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 5,
+    "name": "Hustle",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873308",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 6,
+    "name": "Look At Me Momma",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873312",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 7,
+    "name": "War Wounds",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873323",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 8,
+    "name": "One More Time",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873315",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 9,
+    "name": "TP",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6796864754",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 10,
+    "name": "BbY WOW",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6769568596",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 11,
+    "name": "Janice STFU",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873314",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 12,
+    "name": "Venusian (feat. Hazlett)",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873309",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 13,
+    "name": "Feed The Streets",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873317",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 14,
+    "name": "Keep Dancing (feat. Hazlett)",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6792676860",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 15,
+    "name": "Been By Now",
+    "price": null
+  },
+  {
+    "id": "music:most-played:1062400330",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 16,
+    "name": "Jolene",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873061",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 17,
+    "name": "Summer Joy Intro (feat. Summer Joy)",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873396",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 18,
+    "name": "2017 (Streamer U) [feat. Aimee Carty]",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873325",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 19,
+    "name": "Not New To It",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873320",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 20,
+    "name": "LaCosa Nostra",
+    "price": null
+  },
+  {
+    "id": "music:most-played:282883590",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 21,
+    "name": "9 to 5",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873397",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 22,
+    "name": "Lost and Insecure",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6790569133",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 23,
+    "name": "Dead Fresh",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873401",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 24,
+    "name": "Kiss Me Interlude",
+    "price": null
+  },
+  {
+    "id": "music:most-played:6781873406",
+    "source": "apple",
+    "chart": "most-played",
+    "category": "Music",
+    "rank": 25,
+    "name": "Dope Girl",
+    "price": null
+  },
+  {
+    "id": "books:top-free:998321907",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 1,
+    "name": "The One",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6748261498",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 2,
+    "name": "Wounded Heroes",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1498462364",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 3,
+    "name": "Tempted by Love",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6714450412",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 4,
+    "name": "Tempted",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1525312207",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 5,
+    "name": "Coffee Shop Girl",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6744970345",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 6,
+    "name": "The Girl Who Lied",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6508166412",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 7,
+    "name": "The Lecture",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1480243934",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 8,
+    "name": "Ghost Of A Chance",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6762222963",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 9,
+    "name": "Impelled",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6714449353",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 10,
+    "name": "The Bottom Line",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6802205234",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 11,
+    "name": "My illusory mental degradation ... a journey to awakening",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6761355664",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 12,
+    "name": "Sex - abstract perceptions",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6783494786",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 13,
+    "name": "Silo",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6472732724",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 14,
+    "name": "Midnight",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1524446911",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 15,
+    "name": "The Girls in the Snow",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6475646623",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 16,
+    "name": "The Forever Rule",
+    "price": null
+  },
+  {
+    "id": "books:top-free:395534623",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 17,
+    "name": "The Art of War",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1321149220",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 18,
+    "name": "Branded by the Cowboy",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6503993465",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 19,
+    "name": "The Three Little Pigs",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6584519723",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 20,
+    "name": "Meditations: Modern English Edition",
+    "price": null
+  },
+  {
+    "id": "books:top-free:918670390",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 21,
+    "name": "Let's Taco Bout It",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6779378286",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 22,
+    "name": "Very Bad Things",
+    "price": null
+  },
+  {
+    "id": "books:top-free:929181923",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 23,
+    "name": "Dare to Kiss",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6444767949",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 24,
+    "name": "The Odyssey",
+    "price": null
+  },
+  {
+    "id": "books:top-free:395540967",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 25,
+    "name": "The Odyssey",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6618121844",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 1,
+    "name": "The Correspondent",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6759817623",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 2,
+    "name": "Big Little Truths: Reese's Book Club",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6742906151",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 3,
+    "name": "The Calamity Club",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6746708426",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 4,
+    "name": "Delusional",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6753592922",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 5,
+    "name": "Theo of Golden",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6744894807",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 6,
+    "name": "Mad Mabel",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6753892862",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 7,
+    "name": "Whistler",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:1549344168",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 8,
+    "name": "The Love Hypothesis",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6748329385",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 9,
+    "name": "Yesteryear: A GMA Book Club Pick",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6762102825",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 10,
+    "name": "An Heir of Possibilities",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6443175101",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 11,
+    "name": "The Wager",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6476590322",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 12,
+    "name": "Bad Liar",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6758229442",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 13,
+    "name": "Chain Reaction",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6477336364",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 14,
+    "name": "The Seventh Floor",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6752291157",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 15,
+    "name": "The Fine Art of Lying",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6748531632",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 16,
+    "name": "The Secrets We Hide",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6787082015",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 17,
+    "name": "The Sound of Regret",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6705116471",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 18,
+    "name": "Gone Before Goodbye",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6752864351",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 19,
+    "name": "Heart of Glass",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:1207409071",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 20,
+    "name": "Guns, Germs, and Steel",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:1080183586",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 21,
+    "name": "Dark Matter",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6760126452",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 22,
+    "name": "A Court of Splintered Harmony",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6448248226",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 23,
+    "name": "Martyr! (National Book Award Finalist)",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6761716648",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 24,
+    "name": "Regime Change",
+    "price": null
+  },
+  {
+    "id": "books:top-paid:6448880103",
+    "source": "apple",
+    "chart": "top-paid",
+    "category": "Books",
+    "rank": 25,
+    "name": "The Tainted Cup",
+    "price": null
+  },
+  {
+    "id": "games:top-sellers:2075800",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 1,
+    "name": "STAR WARS Zero Company™",
+    "price": "$49.99"
+  },
+  {
+    "id": "games:top-sellers:4165910",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 2,
+    "name": "Steam Machine",
+    "price": "$1,049.00"
+  },
+  {
+    "id": "games:top-sellers:4165910",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 3,
+    "name": "Steam Machine",
+    "price": "$1,049.00"
+  },
+  {
+    "id": "games:top-sellers:4165910",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 4,
+    "name": "Steam Machine",
+    "price": "$1,049.00"
+  },
+  {
+    "id": "games:top-sellers:4165910",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 5,
+    "name": "Steam Machine",
+    "price": "$1,049.00"
+  },
+  {
+    "id": "games:top-sellers:4001890",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 6,
+    "name": "How to Fish",
+    "price": "$7.99"
+  },
+  {
+    "id": "games:top-sellers:1675200",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 7,
+    "name": "Steam Deck",
+    "price": "$399.00"
+  },
+  {
+    "id": "games:top-sellers:1675200",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 8,
+    "name": "Steam Deck",
+    "price": "$399.00"
+  },
+  {
+    "id": "games:top-sellers:2406770",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 9,
+    "name": "Bodycam",
+    "price": "$33.32"
+  },
+  {
+    "id": "games:top-sellers:3321460",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 10,
+    "name": "Crimson Desert Enhanced",
+    "price": "$55.99"
+  }
+]
