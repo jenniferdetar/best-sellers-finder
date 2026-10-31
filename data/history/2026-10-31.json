@@ -1,0 +1,542 @@
+[
+  {
+    "id": "apps:top-free:6741796873",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 1,
+    "name": "TikTok Pro - Events",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6760173601",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 2,
+    "name": "Muse from Meta",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:632064380",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 3,
+    "name": "Vinted: Pre-loved marketplace",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6448311069",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 4,
+    "name": "ChatGPT",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:407558537",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 5,
+    "name": "Capital One Mobile",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6754134922",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 6,
+    "name": "PineDrama - Short Dramas",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6473753684",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 7,
+    "name": "Claude by Anthropic",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6670430706",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 8,
+    "name": "DramaWave - Dramas & Reels",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:1632713844",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 9,
+    "name": "Kalshi: Trade Sports & Events",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:368677368",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 10,
+    "name": "Uber - Rides, Eats, Hotels",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6477489729",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 11,
+    "name": "Google Gemini",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:1500855883",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 12,
+    "name": "CapCut: Photo & Video Editor",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6446901002",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 13,
+    "name": "Threads",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:922103212",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 14,
+    "name": "McDonald's",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:1662982304",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 15,
+    "name": "Partiful: Party Invite Maker",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:585027354",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 16,
+    "name": "Google Maps",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:6447582581",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 17,
+    "name": "Netflix Game Controller",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:1556928106",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 18,
+    "name": "Posh – Create & Find Events",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:529379082",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 19,
+    "name": "Lyft",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:284815942",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 20,
+    "name": "Google",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:835599320",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 21,
+    "name": "TikTok - Videos, Shop & LIVE",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:338137227",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 22,
+    "name": "Walmart: Shopping & Savings",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:1641486558",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 23,
+    "name": "Temu: Shop Like a Billionaire",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:545519333",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 24,
+    "name": "Amazon Prime Video",
+    "price": null
+  },
+  {
+    "id": "apps:top-free:310633997",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Apps",
+    "rank": 25,
+    "name": "WhatsApp Messenger",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6761178050",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 1,
+    "name": "The Cinnamon Spellbook Bakery",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6470055287",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 2,
+    "name": "Santa's Secret",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1542841495",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 3,
+    "name": "Coroner to Coroner",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6450244968",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 4,
+    "name": "Once Upon A One-Night Stand",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6752905260",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 5,
+    "name": "Forty, Flirty and Fired",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6756586902",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 6,
+    "name": "Against the Dark (A Parker Hand FBI Suspense Thriller—Book One)",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6529548525",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 7,
+    "name": "Asset One (A Lara King Espionage Thriller—Book 1)",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6469682052",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 8,
+    "name": "Sworn to Lead",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1545516653",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 9,
+    "name": "Dangerous King",
+    "price": null
+  },
+  {
+    "id": "books:top-free:395534623",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 10,
+    "name": "The Art of War",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6504861154",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 11,
+    "name": "Knucklebones",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6819810801",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 12,
+    "name": "Her Gold Country Cowboy",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6458733286",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 13,
+    "name": "The Girl from Silent Lake",
+    "price": null
+  },
+  {
+    "id": "books:top-free:395534643",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 14,
+    "name": "Pride and Prejudice",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6743873337",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 15,
+    "name": "Returning Home: A Sweet Small Town Romance",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1524446911",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 16,
+    "name": "The Girls in the Snow",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1381229182",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 17,
+    "name": "Dragon Pact: Blood Dragon #1 (Vampire Dragon Shifter Romance)",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6443230892",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 18,
+    "name": "Target One (The Spy Game—Book #1)",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6505124353",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 19,
+    "name": "Murder 101",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6822449536",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 20,
+    "name": "Frank: Dark Mafia Romance",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6444767949",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 21,
+    "name": "The Odyssey",
+    "price": null
+  },
+  {
+    "id": "books:top-free:1540647641",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 22,
+    "name": "Girl, Taken (An Ella Dark FBI Suspense Thriller—Book 2)",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6479563325",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 23,
+    "name": "Filthy Rich",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6739945989",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 24,
+    "name": "Valor Amidst Decay",
+    "price": null
+  },
+  {
+    "id": "books:top-free:6748327925",
+    "source": "apple",
+    "chart": "top-free",
+    "category": "Books",
+    "rank": 25,
+    "name": "This Time Around",
+    "price": null
+  },
+  {
+    "id": "games:top-sellers:4435490",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 1,
+    "name": "Call of Duty®: Modern Warfare® 4",
+    "price": "$69.99"
+  },
+  {
+    "id": "games:top-sellers:4115450",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 2,
+    "name": "Phantom Blade Zero",
+    "price": "$59.99"
+  },
+  {
+    "id": "games:top-sellers:4165890",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 3,
+    "name": "Steam Frame",
+    "price": "$1,059.00"
+  },
+  {
+    "id": "games:top-sellers:4165890",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 4,
+    "name": "Steam Frame",
+    "price": "$1,059.00"
+  },
+  {
+    "id": "games:top-sellers:4165870",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 5,
+    "name": "Steam Controller",
+    "price": "$99.00"
+  },
+  {
+    "id": "games:top-sellers:4435490",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 6,
+    "name": "Call of Duty®: Modern Warfare® 4",
+    "price": "$69.99"
+  },
+  {
+    "id": "games:top-sellers:5335510",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 7,
+    "name": "Moon Sweepers",
+    "price": "$8.99"
+  },
+  {
+    "id": "games:top-sellers:4348910",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 8,
+    "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+    "price": "$17.99"
+  },
+  {
+    "id": "games:top-sellers:5001840",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 9,
+    "name": "Crimson Desert Enhanced: Charting the Unknown",
+    "price": "$24.99"
+  },
+  {
+    "id": "games:top-sellers:1675200",
+    "source": "steam",
+    "chart": "top-sellers",
+    "category": "Games",
+    "rank": 10,
+    "name": "Steam Deck",
+    "price": "$399.00"
+  }
+]
